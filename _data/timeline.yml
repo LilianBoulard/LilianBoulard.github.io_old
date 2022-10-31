@@ -30,7 +30,7 @@
   timeline-side: right
 
 - title: Paris-Saclay University
-  title-url: https://example.com/
+  title-url: https://www.universite-paris-saclay.fr/en
   date: 2021 - Present
   subtitle: M.Sc. Computer Science
   tags:
@@ -39,7 +39,7 @@
   timeline-side: left
 
 - title: Ynov Paris
-  title-url: https://example.com/
+  title-url: https://www.ynov-paris.com/informatique/
   date: 2020 - 2021
   subtitle: B.A. Computer Science
   tags:
@@ -48,16 +48,17 @@
   timeline-side: left
 
 - title: Information Resources Inc.
-  title-url: https://example.com/
+  title-url: https://www.iriworldwide.com/en-us
   date: Sep 2018 - Jun 2020
   subtitle: Apprentice
   tags:
     - tag: Python
     - tag: SysAdmin
+    - tag: Data-science
   timeline-side: right
 
 - title: Insta
-  title-url: https://example.com/
+  title-url: https://cfa-insta.fr/
   date: 2018 - 2020
   subtitle: Associate's degree (AIT)
   tags:
@@ -66,7 +67,7 @@
   timeline-side: left
 
 - title: Saint-Erembert High School
-  title-url: https://example.com/
+  title-url: https://www.saint-erembert.fr/
   date: 2015 - 2018
   subtitle: High school degree
   timeline-side: left
