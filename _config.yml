@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I have a triple training in mathematics, system administration (cybersecurity, network architecture) and software engineering (web, software), applied to the domains of cybersecurity, cryptography and machine learning.
+about_me_description: I have a triple training in mathematics, system administration (cybersecurity, network architecture) and software engineering (web, software), applied to the domains of cybersecurity, cryptography and machine learning, which I'm mainly interested in!
 
 # SKILLS SECTION
 # show_skills_card:
