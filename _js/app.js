@@ -24,16 +24,6 @@ $(document).ready(function() {
   css.innerHTML = '#txt-rotate > .wrap { border-right: 0.08em solid #666 }';
   document.body.appendChild(css);
 
-  // Initialize AOS
-  AOS.init({
-    disable: 'mobile',
-    offset: 200,
-    duration: 600,
-    easing: 'ease-in-sine',
-    delay: 100,
-    once: true
-  });
-
   randomizeOrder();
 });
 
