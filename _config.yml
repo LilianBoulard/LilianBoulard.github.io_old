@@ -14,7 +14,7 @@ baseurl: ""
 username: Lilian Boulard
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Artificial Intelligence student
+typing_text: Artificial Intelligence student.
 # email: Your E-Mail address for the email button.
 email: 
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I'm a French student in Machine Learning. I'm mainly interested in AI and cryptography!
+about_me_description: I have a triple training in mathematics, system administration (cybersecurity, network architecture) and software engineering (web, software), applied to the domains of cybersecurity, cryptography and machine learning.
 
 # SKILLS SECTION
 # show_skills_card:
